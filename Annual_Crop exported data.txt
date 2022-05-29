@@ -1,0 +1,1034 @@
+DEPT_ID		DEP_NAME	MANAGER_ID	LOC_ID
+0		31/12/1965	Barley   	Alberta  
+1		31/12/1965	Barley   	Canada   
+10		31/12/1965	Wheat    	Canada   
+100		31/12/1973	Canola   	Canada   
+1000		4/1/2021	1.2751	
+1001		5/1/2021	1.2707	
+1002		6/1/2021	1.2685	
+1003		7/1/2021	1.2707	
+1004		8/1/2021	1.2705	
+1005		11/1/2021	1.2788	
+1006		12/1/2021	1.2746	
+1007		13/1/2021	1.271	
+1008		14/1/2021	1.2654	
+1009		15/1/2021	1.2727	
+101		31/12/1973	Canola   	Saskatche
+1010		18/1/2021	1.2762	
+1011		19/1/2021	1.2735	
+1012		20/1/2021	1.2656	
+1013		21/1/2021	1.2627	
+1014		22/1/2021	1.2716	
+1015		25/1/2021	1.2738	
+1016		26/1/2021	1.2702	
+1017		27/1/2021	1.2775	
+1018		28/1/2021	1.281	
+1019		29/1/2021	1.278	
+102		31/12/1973	Rye      	Alberta  
+1020		1/2/2021	1.2824	
+1021		2/2/2021	1.2818	
+1022		3/2/2021	1.2783	
+1023		4/2/2021	1.2828	
+1024		5/2/2021	1.2777	
+1025		8/2/2021	1.2753	
+1026		9/2/2021	1.2719	
+1027		10/2/2021	1.2689	
+1028		11/2/2021	1.2686	
+1029		12/2/2021	1.2711	
+103		31/12/1973	Rye      	Canada   
+1030		16/2/2021	1.2684	
+1031		17/2/2021	1.2712	
+1032		18/2/2021	1.2696	
+104		31/12/1973	Rye      	Saskatche
+105		31/12/1973	Wheat    	Alberta  
+106		31/12/1973	Wheat    	Canada   
+107		31/12/1973	Wheat    	Saskatche
+108		31/12/1974	Barley   	Alberta  
+109		31/12/1965	Wheat    	Saskatche
+110		31/12/1974	Barley   	Saskatche
+111		31/12/1974	Canola   	Alberta  
+112		31/12/1974	Canola   	Canada   
+113		31/12/1974	Canola   	Saskatche
+114		31/12/1974	Rye      	Alberta  
+115		31/12/1974	Rye      	Canada   
+116		31/12/1974	Rye      	Saskatche
+117		31/12/1974	Wheat    	Alberta  
+118		31/12/1974	Wheat    	Canada   
+119		31/12/1974	Wheat    	Saskatche
+12		31/12/1966	Barley   	Alberta  
+120		31/12/1975	Barley   	Alberta  
+121		31/12/1975	Barley   	Canada   
+122		31/12/1975	Barley   	Saskatche
+123		31/12/1975	Canola   	Alberta  
+124		31/12/1975	Canola   	Canada   
+125		31/12/1975	Canola   	Saskatche
+126		31/12/1975	Rye      	Alberta  
+127		31/12/1975	Rye      	Canada   
+128		31/12/1975	Rye      	Saskatche
+129		31/12/1975	Wheat    	Alberta  
+13		31/12/1966	Barley   	Canada   
+130		31/12/1975	Wheat    	Canada   
+131		31/12/1975	Wheat    	Saskatche
+132		31/12/1976	Barley   	Alberta  
+133		31/12/1976	Barley   	Canada   
+134		31/12/1976	Barley   	Saskatche
+135		31/12/1976	Canola   	Alberta  
+136		31/12/1976	Canola   	Canada   
+137		31/12/1976	Canola   	Saskatche
+138		31/12/1976	Rye      	Alberta  
+139		31/12/1976	Rye      	Canada   
+14		31/12/1966	Barley   	Saskatche
+140		31/12/1976	Rye      	Saskatche
+141		31/12/1976	Wheat    	Alberta  
+142		31/12/1976	Wheat    	Canada   
+143		31/12/1976	Wheat    	Saskatche
+144		31/12/1977	Barley   	Alberta  
+145		31/12/1977	Barley   	Canada   
+146		31/12/1977	Barley   	Saskatche
+147		31/12/1977	Canola   	Alberta  
+148		31/12/1977	Canola   	Canada   
+149		31/12/1977	Canola   	Saskatche
+15		31/12/1966	Canola   	Alberta  
+150		31/12/1977	Rye      	Alberta  
+151		31/12/1977	Rye      	Canada   
+152		31/12/1977	Rye      	Saskatche
+153		31/12/1977	Wheat    	Alberta  
+154		31/12/1977	Wheat    	Canada   
+155		31/12/1977	Wheat    	Saskatche
+156		31/12/1978	Barley   	Alberta  
+157		31/12/1978	Barley   	Canada   
+158		31/12/1978	Barley   	Saskatche
+159		31/12/1978	Canola   	Alberta  
+16		31/12/1966	Canola   	Canada   
+160		31/12/1978	Canola   	Canada   
+161		31/12/1978	Canola   	Saskatche
+162		31/12/1978	Rye      	Alberta  
+163		31/12/1978	Rye      	Canada   
+164		31/12/1978	Rye      	Saskatche
+165		31/12/1978	Wheat    	Alberta  
+166		31/12/1978	Wheat    	Canada   
+167		31/12/1978	Wheat    	Saskatche
+168		31/12/1979	Barley   	Alberta  
+169		31/12/1979	Barley   	Canada   
+17		31/12/1966	Canola   	Saskatche
+170		31/12/1979	Barley   	Saskatche
+171		31/12/1979	Canola   	Alberta  
+172		31/12/1979	Canola   	Canada   
+173		31/12/1979	Canola   	Saskatche
+174		31/12/1979	Rye      	Alberta  
+175		31/12/1979	Rye      	Canada   
+176		31/12/1979	Rye      	Saskatche
+177		31/12/1979	Wheat    	Alberta  
+178		31/12/1979	Wheat    	Canada   
+179		31/12/1979	Wheat    	Saskatche
+18		31/12/1966	Rye      	Alberta  
+180		31/12/1980	Barley   	Alberta  
+181		31/12/1980	Barley   	Canada   
+182		31/12/1980	Barley   	Saskatche
+183		31/12/1980	Canola   	Alberta  
+184		31/12/1980	Canola   	Canada   
+185		31/12/1980	Canola   	Saskatche
+186		31/12/1980	Rye      	Alberta  
+187		31/12/1980	Rye      	Canada   
+188		31/12/1980	Rye      	Saskatche
+189		31/12/1980	Wheat    	Alberta  
+19		31/12/1966	Rye      	Canada   
+190		31/12/1980	Wheat    	Canada   
+191		31/12/1980	Wheat    	Saskatche
+192		31/12/1981	Barley   	Alberta  
+193		31/12/1981	Barley   	Canada   
+194		31/12/1981	Barley   	Saskatche
+195		31/12/1981	Canola   	Alberta  
+196		31/12/1981	Canola   	Canada   
+197		31/12/1981	Canola   	Saskatche
+198		31/12/1981	Rye      	Alberta  
+199		31/12/1981	Rye      	Canada   
+2		31/12/1965	Barley   	Saskatche
+20		31/12/1966	Rye      	Saskatche
+200		31/12/1981	Rye      	Saskatche
+201		31/12/1981	Wheat    	Alberta  
+202		31/12/1981	Wheat    	Canada   
+203		31/12/1981	Wheat    	Saskatche
+204		31/12/1982	Barley   	Alberta  
+205		31/12/1982	Barley   	Canada   
+206		31/12/1982	Barley   	Saskatche
+207		31/12/1982	Canola   	Alberta  
+208		31/12/1982	Canola   	Canada   
+209		31/12/1982	Canola   	Saskatche
+21		31/12/1966	Wheat    	Alberta  
+210		31/12/1982	Rye      	Alberta  
+211		31/12/1982	Rye      	Canada   
+212		31/12/1982	Rye      	Saskatche
+213		31/12/1982	Wheat    	Alberta  
+214		31/12/1982	Wheat    	Canada   
+215		31/12/1982	Wheat    	Saskatche
+216		31/12/1983	Barley   	Alberta  
+217		31/12/1983	Barley   	Canada   
+218		31/12/1983	Barley   	Saskatche
+219		31/12/1983	Canola   	Alberta  
+22		31/12/1966	Wheat    	Canada   
+220		31/12/1983	Canola   	Canada   
+221		31/12/1983	Canola   	Saskatche
+222		31/12/1983	Rye      	Alberta  
+223		31/12/1983	Rye      	Canada   
+224		31/12/1983	Rye      	Saskatche
+225		31/12/1983	Wheat    	Alberta  
+226		31/12/1983	Wheat    	Canada   
+227		31/12/1983	Wheat    	Saskatche
+228		31/12/1984	Barley   	Alberta  
+229		31/12/1984	Barley   	Canada   
+23		31/12/1966	Wheat    	Saskatche
+230		31/12/1984	Barley   	Saskatche
+231		31/12/1984	Canola   	Alberta  
+232		31/12/1984	Canola   	Canada   
+233		31/12/1984	Canola   	Saskatche
+234		31/12/1984	Rye      	Alberta  
+235		31/12/1984	Rye      	Canada   
+236		31/12/1984	Rye      	Saskatche
+237		31/12/1984	Wheat    	Alberta  
+238		31/12/1984	Wheat    	Canada   
+239		31/12/1984	Wheat    	Saskatche
+24		31/12/1967	Barley   	Alberta  
+240		31/12/1985	Barley   	Alberta  
+241		31/12/1985	Barley   	Canada   
+242		31/12/1985	Barley   	Saskatche
+243		31/12/1985	Canola   	Alberta  
+244		31/12/1985	Canola   	Canada   
+245		31/12/1985	Canola   	Saskatche
+246		31/12/1985	Rye      	Alberta  
+247		31/12/1985	Rye      	Canada   
+248		31/12/1985	Rye      	Saskatche
+249		31/12/1985	Wheat    	Alberta  
+25		31/12/1967	Barley   	Canada   
+250		31/12/1985	Wheat    	Canada   
+251		31/12/1985	Wheat    	Saskatche
+252		31/12/1986	Barley   	Alberta  
+253		31/12/1986	Barley   	Canada   
+254		31/12/1986	Barley   	Saskatche
+255		31/12/1986	Canola   	Alberta  
+256		31/12/1986	Canola   	Canada   
+257		31/12/1986	Canola   	Saskatche
+258		31/12/1986	Rye      	Alberta  
+259		31/12/1986	Rye      	Canada   
+26		31/12/1967	Barley   	Saskatche
+260		31/12/1986	Rye      	Saskatche
+261		31/12/1986	Wheat    	Alberta  
+262		31/12/1986	Wheat    	Canada   
+263		31/12/1986	Wheat    	Saskatche
+264		31/12/1987	Barley   	Alberta  
+265		31/12/1987	Barley   	Canada   
+266		31/12/1987	Barley   	Saskatche
+267		31/12/1987	Canola   	Alberta  
+268		31/12/1987	Canola   	Canada   
+269		31/12/1987	Canola   	Saskatche
+27		31/12/1967	Canola   	Alberta  
+270		31/12/1987	Rye      	Alberta  
+271		31/12/1987	Rye      	Canada   
+272		31/12/1987	Rye      	Saskatche
+273		31/12/1987	Wheat    	Alberta  
+274		31/12/1987	Wheat    	Canada   
+275		31/12/1987	Wheat    	Saskatche
+276		31/12/1988	Barley   	Alberta  
+277		31/12/1988	Barley   	Canada   
+278		31/12/1988	Barley   	Saskatche
+279		31/12/1988	Canola   	Alberta  
+28		31/12/1967	Canola   	Canada   
+280		31/12/1988	Canola   	Canada   
+281		31/12/1988	Canola   	Saskatche
+282		31/12/1988	Rye      	Alberta  
+283		31/12/1988	Rye      	Canada   
+284		31/12/1988	Rye      	Saskatche
+285		31/12/1988	Wheat    	Alberta  
+286		31/12/1988	Wheat    	Canada   
+287		31/12/1988	Wheat    	Saskatche
+288		31/12/1989	Barley   	Alberta  
+289		31/12/1989	Barley   	Canada   
+29		31/12/1967	Canola   	Saskatche
+290		31/12/1989	Barley   	Saskatche
+291		31/12/1989	Canola   	Alberta  
+292		31/12/1989	Canola   	Canada   
+293		31/12/1989	Canola   	Saskatche
+294		31/12/1989	Rye      	Alberta  
+295		31/12/1989	Rye      	Canada   
+296		31/12/1989	Rye      	Saskatche
+297		31/12/1989	Wheat    	Alberta  
+298		31/12/1989	Wheat    	Canada   
+299		31/12/1989	Wheat    	Saskatche
+3		31/12/1965	Canola   	Alberta  
+30		31/12/1967	Rye      	Alberta  
+300		31/12/1990	Barley   	Alberta  
+301		31/12/1990	Barley   	Canada   
+302		31/12/1990	Barley   	Saskatche
+303		31/12/1990	Canola   	Alberta  
+304		31/12/1990	Canola   	Canada   
+305		31/12/1990	Canola   	Saskatche
+306		31/12/1990	Rye      	Alberta  
+307		31/12/1990	Rye      	Canada   
+308		31/12/1990	Rye      	Saskatche
+309		31/12/1990	Wheat    	Alberta  
+31		31/12/1967	Rye      	Canada   
+310		31/12/1990	Wheat    	Canada   
+311		31/12/1990	Wheat    	Saskatche
+312		31/12/1991	Barley   	Alberta  
+313		31/12/1991	Barley   	Canada   
+314		31/12/1991	Barley   	Saskatche
+315		31/12/1991	Canola   	Alberta  
+316		31/12/1991	Canola   	Canada   
+317		31/12/1991	Canola   	Saskatche
+318		31/12/1991	Rye      	Alberta  
+319		31/12/1991	Rye      	Canada   
+32		31/12/1967	Rye      	Saskatche
+320		31/12/1991	Rye      	Saskatche
+321		31/12/1991	Wheat    	Alberta  
+322		31/12/1991	Wheat    	Canada   
+323		31/12/1991	Wheat    	Saskatche
+324		31/12/1992	Barley   	Alberta  
+325		31/12/1992	Barley   	Canada   
+326		31/12/1992	Barley   	Saskatche
+327		31/12/1992	Canola   	Alberta  
+328		31/12/1992	Canola   	Canada   
+329		31/12/1992	Canola   	Saskatche
+33		31/12/1967	Wheat    	Alberta  
+330		31/12/1992	Rye      	Alberta  
+331		31/12/1992	Rye      	Canada   
+332		31/12/1992	Rye      	Saskatche
+333		31/12/1992	Wheat    	Alberta  
+334		31/12/1992	Wheat    	Canada   
+335		31/12/1992	Wheat    	Saskatche
+336		31/12/1993	Barley   	Alberta  
+337		31/12/1993	Barley   	Canada   
+338		31/12/1993	Barley   	Saskatche
+339		31/12/1993	Canola   	Alberta  
+34		31/12/1967	Wheat    	Canada   
+340		31/12/1993	Canola   	Canada   
+341		31/12/1993	Canola   	Saskatche
+342		31/12/1993	Rye      	Alberta  
+343		31/12/1993	Rye      	Canada   
+344		31/12/1993	Rye      	Saskatche
+345		31/12/1993	Wheat    	Alberta  
+346		31/12/1993	Wheat    	Canada   
+347		31/12/1993	Wheat    	Saskatche
+348		31/12/1994	Barley   	Alberta  
+349		31/12/1994	Barley   	Canada   
+35		31/12/1967	Wheat    	Saskatche
+350		31/12/1994	Barley   	Saskatche
+351		31/12/1994	Canola   	Alberta  
+352		31/12/1994	Canola   	Canada   
+353		31/12/1994	Canola   	Saskatche
+354		31/12/1994	Rye      	Alberta  
+355		31/12/1994	Rye      	Canada   
+356		31/12/1994	Rye      	Saskatche
+357		31/12/1994	Wheat    	Alberta  
+358		31/12/1994	Wheat    	Canada   
+359		31/12/1994	Wheat    	Saskatche
+36		31/12/1968	Barley   	Alberta  
+360		31/12/1995	Barley   	Alberta  
+361		31/12/1995	Barley   	Canada   
+362		31/12/1995	Barley   	Saskatche
+363		31/12/1995	Canola   	Alberta  
+364		31/12/1995	Canola   	Canada   
+365		31/12/1995	Canola   	Saskatche
+366		31/12/1995	Rye      	Alberta  
+367		31/12/1995	Rye      	Canada   
+368		31/12/1995	Rye      	Saskatche
+369		31/12/1995	Wheat    	Alberta  
+37		31/12/1968	Barley   	Canada   
+370		31/12/1995	Wheat    	Canada   
+371		31/12/1995	Wheat    	Saskatche
+372		31/12/1996	Barley   	Alberta  
+373		31/12/1996	Barley   	Canada   
+374		31/12/1996	Barley   	Saskatche
+375		31/12/1996	Canola   	Alberta  
+376		31/12/1996	Canola   	Canada   
+377		31/12/1996	Canola   	Saskatche
+378		31/12/1996	Rye      	Alberta  
+379		31/12/1996	Rye      	Canada   
+38		31/12/1968	Barley   	Saskatche
+380		31/12/1996	Rye      	Saskatche
+381		31/12/1996	Wheat    	Alberta  
+382		31/12/1996	Wheat    	Canada   
+383		31/12/1996	Wheat    	Saskatche
+384		31/12/1997	Barley   	Alberta  
+385		31/12/1997	Barley   	Canada   
+386		31/12/1997	Barley   	Saskatche
+387		31/12/1997	Canola   	Alberta  
+388		31/12/1997	Canola   	Canada   
+389		31/12/1997	Canola   	Saskatche
+39		31/12/1968	Canola   	Alberta  
+390		31/12/1997	Rye      	Alberta  
+391		31/12/1997	Rye      	Canada   
+392		31/12/1997	Rye      	Saskatche
+393		31/12/1997	Wheat    	Alberta  
+394		31/12/1997	Wheat    	Canada   
+395		31/12/1997	Wheat    	Saskatche
+396		31/12/1998	Barley   	Alberta  
+397		31/12/1998	Barley   	Canada   
+398		31/12/1998	Barley   	Saskatche
+399		31/12/1998	Canola   	Alberta  
+4		31/12/1965	Canola   	Canada   
+40		31/12/1968	Canola   	Canada   
+400		31/12/1998	Canola   	Canada   
+401		31/12/1998	Canola   	Saskatche
+402		31/12/1998	Rye      	Alberta  
+403		31/12/1998	Rye      	Canada   
+404		31/12/1998	Rye      	Saskatche
+405		31/12/1998	Wheat    	Alberta  
+406		31/12/1998	Wheat    	Canada   
+407		31/12/1998	Wheat    	Saskatche
+408		31/12/1999	Barley   	Alberta  
+409		31/12/1999	Barley   	Canada   
+41		31/12/1968	Canola   	Saskatche
+410		31/12/1999	Barley   	Saskatche
+411		31/12/1999	Canola   	Alberta  
+412		31/12/1999	Canola   	Canada   
+413		31/12/1999	Canola   	Saskatche
+414		31/12/1999	Rye      	Alberta  
+415		31/12/1999	Rye      	Canada   
+416		31/12/1999	Rye      	Saskatche
+417		31/12/1999	Wheat    	Alberta  
+418		31/12/1999	Wheat    	Canada   
+419		31/12/1999	Wheat    	Saskatche
+42		31/12/1968	Rye      	Alberta  
+420		31/12/2000	Barley   	Alberta  
+421		31/12/2000	Barley   	Canada   
+422		31/12/2000	Barley   	Saskatche
+423		31/12/2000	Canola   	Alberta  
+424		31/12/2000	Canola   	Canada   
+425		31/12/2000	Canola   	Saskatche
+426		31/12/2000	Rye      	Alberta  
+427		31/12/2000	Rye      	Canada   
+428		31/12/2000	Rye      	Saskatche
+429		31/12/2000	Wheat    	Alberta  
+43		31/12/1968	Rye      	Canada   
+430		31/12/2000	Wheat    	Canada   
+431		31/12/2000	Wheat    	Saskatche
+432		31/12/2001	Barley   	Alberta  
+433		31/12/2001	Barley   	Canada   
+434		31/12/2001	Barley   	Saskatche
+435		31/12/2001	Canola   	Alberta  
+436		31/12/2001	Canola   	Canada   
+437		31/12/2001	Canola   	Saskatche
+438		31/12/2001	Rye      	Alberta  
+439		31/12/2001	Rye      	Canada   
+44		31/12/1968	Rye      	Saskatche
+440		31/12/2001	Rye      	Saskatche
+441		31/12/2001	Wheat    	Alberta  
+442		31/12/2001	Wheat    	Canada   
+443		31/12/2001	Wheat    	Saskatche
+444		31/12/2002	Barley   	Alberta  
+445		31/12/2002	Barley   	Canada   
+446		31/12/2002	Barley   	Saskatche
+447		31/12/2002	Canola   	Alberta  
+448		31/12/2002	Canola   	Canada   
+449		31/12/2002	Canola   	Saskatche
+45		31/12/1968	Wheat    	Alberta  
+450		31/12/2002	Rye      	Alberta  
+451		31/12/2002	Rye      	Canada   
+452		31/12/2002	Rye      	Saskatche
+453		31/12/2002	Wheat    	Alberta  
+454		31/12/2002	Wheat    	Canada   
+455		31/12/2002	Wheat    	Saskatche
+456		31/12/2003	Barley   	Alberta  
+457		31/12/2003	Barley   	Canada   
+458		31/12/2003	Barley   	Saskatche
+459		31/12/2003	Canola   	Alberta  
+46		31/12/1968	Wheat    	Canada   
+460		31/12/2003	Canola   	Canada   
+461		31/12/2003	Canola   	Saskatche
+462		31/12/2003	Rye      	Alberta  
+463		31/12/2003	Rye      	Canada   
+464		31/12/2003	Rye      	Saskatche
+465		31/12/2003	Wheat    	Alberta  
+466		31/12/2003	Wheat    	Canada   
+467		31/12/2003	Wheat    	Saskatche
+468		31/12/2004	Barley   	Alberta  
+469		31/12/2004	Barley   	Canada   
+47		31/12/1968	Wheat    	Saskatche
+470		31/12/2004	Barley   	Saskatche
+471		31/12/2004	Canola   	Alberta  
+472		31/12/2004	Canola   	Canada   
+473		31/12/2004	Canola   	Saskatche
+474		31/12/2004	Rye      	Alberta  
+475		31/12/2004	Rye      	Canada   
+476		31/12/2004	Rye      	Saskatche
+477		31/12/2004	Wheat    	Alberta  
+478		31/12/2004	Wheat    	Canada   
+479		31/12/2004	Wheat    	Saskatche
+48		31/12/1969	Barley   	Alberta  
+480		31/12/2005	Barley   	Alberta  
+481		31/12/2005	Barley   	Canada   
+482		31/12/2005	Barley   	Saskatche
+483		31/12/2005	Canola   	Alberta  
+484		31/12/2005	Canola   	Canada   
+485		31/12/2005	Canola   	Saskatche
+486		31/12/2005	Rye      	Alberta  
+487		31/12/2005	Rye      	Canada   
+488		31/12/2005	Rye      	Saskatche
+489		31/12/2005	Wheat    	Alberta  
+49		31/12/1969	Barley   	Canada   
+490		31/12/2005	Wheat    	Canada   
+491		31/12/2005	Wheat    	Saskatche
+492		31/12/2006	Barley   	Alberta  
+493		31/12/2006	Barley   	Canada   
+494		31/12/2006	Barley   	Saskatche
+495		31/12/2006	Canola   	Alberta  
+496		31/12/2006	Canola   	Canada   
+497		31/12/2006	Canola   	Saskatche
+498		31/12/2006	Rye      	Alberta  
+499		31/12/2006	Rye      	Canada   
+5		Software Group	30002		L0002    
+50		31/12/1969	Barley   	Saskatche
+500		31/12/2006	Rye      	Saskatche
+501		31/12/2006	Wheat    	Alberta  
+502		31/12/2006	Wheat    	Canada   
+503		31/12/2006	Wheat    	Saskatche
+504		31/12/2007	Barley   	Alberta  
+505		31/12/2007	Barley   	Canada   
+506		31/12/2007	Barley   	Saskatche
+507		31/12/2007	Canola   	Alberta  
+508		31/12/2007	Canola   	Canada   
+509		31/12/2007	Canola   	Saskatche
+51		31/12/1969	Canola   	Alberta  
+510		31/12/2007	Rye      	Alberta  
+511		31/12/2007	Rye      	Canada   
+512		31/12/2007	Rye      	Saskatche
+513		31/12/2007	Wheat    	Alberta  
+514		31/12/2007	Wheat    	Canada   
+515		31/12/2007	Wheat    	Saskatche
+516		31/12/2008	Barley   	Alberta  
+517		31/12/2008	Barley   	Canada   
+518		31/12/2008	Barley   	Saskatche
+519		31/12/2008	Canola   	Alberta  
+52		31/12/1969	Canola   	Canada   
+520		31/12/2008	Canola   	Canada   
+521		31/12/2008	Canola   	Saskatche
+522		31/12/2008	Rye      	Alberta  
+523		31/12/2008	Rye      	Canada   
+524		31/12/2008	Rye      	Saskatche
+525		31/12/2008	Wheat    	Alberta  
+526		31/12/2008	Wheat    	Canada   
+527		31/12/2008	Wheat    	Saskatche
+528		31/12/2009	Barley   	Alberta  
+529		31/12/2009	Barley   	Canada   
+53		31/12/1969	Canola   	Saskatche
+530		31/12/2009	Barley   	Saskatche
+531		31/12/2009	Canola   	Alberta  
+532		31/12/2009	Canola   	Canada   
+533		31/12/2009	Canola   	Saskatche
+534		31/12/2009	Rye      	Alberta  
+535		31/12/2009	Rye      	Canada   
+536		31/12/2009	Rye      	Saskatche
+537		31/12/2009	Wheat    	Alberta  
+538		31/12/2009	Wheat    	Canada   
+539		31/12/2009	Wheat    	Saskatche
+54		31/12/1969	Rye      	Alberta  
+540		31/12/2010	Barley   	Alberta  
+541		31/12/2010	Barley   	Canada   
+542		31/12/2010	Barley   	Saskatche
+543		31/12/2010	Canola   	Alberta  
+544		31/12/2010	Canola   	Canada   
+545		31/12/2010	Canola   	Saskatche
+546		31/12/2010	Rye      	Alberta  
+547		31/12/2010	Rye      	Canada   
+548		31/12/2010	Rye      	Saskatche
+549		31/12/2010	Wheat    	Alberta  
+55		31/12/1969	Rye      	Canada   
+550		31/12/2010	Wheat    	Canada   
+551		31/12/2010	Wheat    	Saskatche
+552		31/12/2011	Barley   	Alberta  
+553		31/12/2011	Barley   	Canada   
+554		31/12/2011	Barley   	Saskatche
+555		31/12/2011	Canola   	Alberta  
+556		31/12/2011	Canola   	Canada   
+557		31/12/2011	Canola   	Saskatche
+558		31/12/2011	Rye      	Alberta  
+559		31/12/2011	Rye      	Canada   
+56		31/12/1969	Rye      	Saskatche
+560		31/12/2011	Rye      	Saskatche
+561		31/12/2011	Wheat    	Alberta  
+562		31/12/2011	Wheat    	Canada   
+563		31/12/2011	Wheat    	Saskatche
+564		31/12/2012	Barley   	Alberta  
+565		31/12/2012	Barley   	Canada   
+566		31/12/2012	Barley   	Saskatche
+567		31/12/2012	Canola   	Alberta  
+568		31/12/2012	Canola   	Canada   
+569		31/12/2012	Canola   	Saskatche
+57		31/12/1969	Wheat    	Alberta  
+570		31/12/2012	Rye      	Alberta  
+571		31/12/2012	Rye      	Canada   
+572		31/12/2012	Rye      	Saskatche
+573		31/12/2012	Wheat    	Alberta  
+574		31/12/2012	Wheat    	Canada   
+575		31/12/2012	Wheat    	Saskatche
+576		31/12/2013	Barley   	Alberta  
+577		31/12/2013	Barley   	Canada   
+578		31/12/2013	Barley   	Saskatche
+579		31/12/2013	Canola   	Alberta  
+58		31/12/1969	Wheat    	Canada   
+580		31/12/2013	Canola   	Canada   
+581		31/12/2013	Canola   	Saskatche
+582		31/12/2013	Rye      	Alberta  
+583		31/12/2013	Rye      	Canada   
+584		31/12/2013	Rye      	Saskatche
+585		31/12/2013	Wheat    	Alberta  
+586		31/12/2013	Wheat    	Canada   
+587		31/12/2013	Wheat    	Saskatche
+588		31/12/2014	Barley   	Alberta  
+589		31/12/2014	Barley   	Canada   
+59		31/12/1969	Wheat    	Saskatche
+590		31/12/2014	Barley   	Saskatche
+591		31/12/2014	Canola   	Alberta  
+592		31/12/2014	Canola   	Canada   
+593		31/12/2014	Canola   	Saskatche
+594		31/12/2014	Rye      	Alberta  
+595		31/12/2014	Rye      	Canada   
+596		31/12/2014	Rye      	Saskatche
+597		31/12/2014	Wheat    	Alberta  
+598		31/12/2014	Wheat    	Canada   
+599		31/12/2014	Wheat    	Saskatche
+6		31/12/1965	Rye      	Alberta  
+60		31/12/1970	Barley   	Alberta  
+600		31/12/2015	Barley   	Alberta  
+601		31/12/2015	Barley   	Canada   
+602		31/12/2015	Barley   	Saskatche
+603		31/12/2015	Canola   	Alberta  
+604		31/12/2015	Canola   	Canada   
+605		31/12/2015	Canola   	Saskatche
+606		31/12/2015	Rye      	Alberta  
+607		31/12/2015	Rye      	Canada   
+608		31/12/2015	Rye      	Saskatche
+609		31/12/2015	Wheat    	Alberta  
+61		31/12/1970	Barley   	Canada   
+610		31/12/2015	Wheat    	Canada   
+611		31/12/2015	Wheat    	Saskatche
+612		31/12/2016	Barley   	Alberta  
+613		31/12/2016	Barley   	Canada   
+614		31/12/2016	Barley   	Saskatche
+615		31/12/2016	Canola   	Alberta  
+616		31/12/2016	Canola   	Canada   
+617		31/12/2016	Canola   	Saskatche
+618		31/12/2016	Rye      	Alberta  
+619		31/12/2016	Rye      	Canada   
+62		31/12/1970	Barley   	Saskatche
+620		31/12/2016	Rye      	Saskatche
+621		31/12/2016	Wheat    	Alberta  
+622		31/12/2016	Wheat    	Canada   
+623		31/12/2016	Wheat    	Saskatche
+624		31/12/2017	Barley   	Alberta  
+625		31/12/2017	Barley   	Canada   
+626		31/12/2017	Barley   	Saskatche
+627		31/12/2017	Canola   	Alberta  
+628		31/12/2017	Canola   	Canada   
+629		31/12/2017	Canola   	Saskatche
+63		31/12/1970	Canola   	Alberta  
+630		31/12/2017	Rye      	Alberta  
+631		31/12/2017	Rye      	Canada   
+632		31/12/2017	Rye      	Saskatche
+633		31/12/2017	Wheat    	Alberta  
+634		31/12/2017	Wheat    	Canada   
+635		31/12/2017	Wheat    	Saskatche
+636		31/12/2018	Barley   	Alberta  
+637		31/12/2018	Barley   	Canada   
+638		31/12/2018	Barley   	Saskatche
+639		31/12/2018	Canola   	Alberta  
+64		31/12/1970	Canola   	Canada   
+640		31/12/2018	Canola   	Canada   
+641		31/12/2018	Canola   	Saskatche
+642		31/12/2018	Rye      	Alberta  
+643		31/12/2018	Rye      	Canada   
+644		31/12/2018	Rye      	Saskatche
+645		31/12/2018	Wheat    	Alberta  
+646		31/12/2018	Wheat    	Canada   
+647		31/12/2018	Wheat    	Saskatche
+648		31/12/2019	Barley   	Alberta  
+649		31/12/2019	Barley   	Canada   
+65		31/12/1970	Canola   	Saskatche
+650		31/12/2019	Barley   	Saskatche
+651		31/12/2019	Canola   	Alberta  
+652		31/12/2019	Canola   	Canada   
+653		31/12/2019	Canola   	Saskatche
+654		31/12/2019	Rye      	Alberta  
+655		31/12/2019	Rye      	Canada   
+656		31/12/2019	Rye      	Saskatche
+657		31/12/2019	Wheat    	Alberta  
+658		31/12/2019	Wheat    	Canada   
+659		31/12/2019	Wheat    	Saskatche
+66		31/12/1970	Rye      	Alberta  
+660		31/12/2020	Barley   	Alberta  
+661		31/12/2020	Barley   	Canada   
+662		31/12/2020	Barley   	Saskatche
+663		31/12/2020	Canola   	Alberta  
+664		31/12/2020	Canola   	Canada   
+665		31/12/2020	Canola   	Saskatche
+666		31/12/2020	Rye      	Alberta  
+667		31/12/2020	Rye      	Canada   
+668		31/12/2020	Rye      	Saskatche
+669		31/12/2020	Wheat    	Alberta  
+67		31/12/1970	Rye      	Canada   
+670		31/12/2020	Wheat    	Canada   
+671		31/12/2020	Wheat    	Saskatche
+672		10/9/2019	1.3153	
+673		11/9/2019	1.3181	
+674		12/9/2019	1.3205	
+675		13/9/2019	1.3257	
+676		16/9/2019	1.3248	
+677		17/9/2019	1.3257	
+678		18/9/2019	1.3271	
+679		19/9/2019	1.3259	
+68		31/12/1970	Rye      	Saskatche
+680		20/9/2019	1.3275	
+681		23/9/2019	1.327	
+682		24/9/2019	1.3249	
+683		25/9/2019	1.327	
+684		26/9/2019	1.326	
+685		27/9/2019	1.3249	
+686		30/9/2019	1.3243	
+687		1/10/2019	1.3244	
+688		2/10/2019	1.3294	
+689		3/10/2019	1.333	
+69		31/12/1970	Wheat    	Alberta  
+690		4/10/2019	1.3317	
+691		7/10/2019	1.3306	
+692		8/10/2019	1.3323	
+693		9/10/2019	1.3324	
+694		10/10/2019	1.3294	
+695		11/10/2019	1.3198	
+696		15/10/2019	1.3211	
+697		16/10/2019	1.3201	
+698		17/10/2019	1.3143	
+699		18/10/2019	1.3132	
+7		Design Team	30003		L0003    
+70		31/12/1970	Wheat    	Canada   
+700		21/10/2019	1.3096	
+701		22/10/2019	1.3094	
+702		23/10/2019	1.3086	
+703		24/10/2019	1.3075	
+704		25/10/2019	1.3064	
+705		28/10/2019	1.3056	
+706		29/10/2019	1.3075	
+707		30/10/2019	1.3152	
+708		31/10/2019	1.316	
+709		1/11/2019	1.3157	
+71		31/12/1970	Wheat    	Saskatche
+710		4/11/2019	1.3148	
+711		5/11/2019	1.3153	
+712		6/11/2019	1.3179	
+713		7/11/2019	1.3176	
+714		8/11/2019	1.3223	
+715		12/11/2019	1.3228	
+716		13/11/2019	1.3249	
+717		14/11/2019	1.3258	
+718		15/11/2019	1.3231	
+719		18/11/2019	1.3214	
+72		31/12/1971	Barley   	Alberta  
+720		19/11/2019	1.3237	
+721		20/11/2019	1.3304	
+722		21/11/2019	1.3285	
+723		22/11/2019	1.3287	
+724		25/11/2019	1.3307	
+725		26/11/2019	1.3288	
+726		27/11/2019	1.3278	
+727		28/11/2019	1.3285	
+728		29/11/2019	1.3289	
+729		2/12/2019	1.3297	
+73		31/12/1971	Barley   	Canada   
+730		3/12/2019	1.3302	
+731		4/12/2019	1.3223	
+732		5/12/2019	1.3174	
+733		6/12/2019	1.3255	
+734		9/12/2019	1.3235	
+735		10/12/2019	1.3233	
+736		11/12/2019	1.3201	
+737		12/12/2019	1.3182	
+738		13/12/2019	1.3183	
+739		16/12/2019	1.3142	
+74		31/12/1971	Barley   	Saskatche
+740		17/12/2019	1.316	
+741		18/12/2019	1.3119	
+742		19/12/2019	1.3122	
+743		20/12/2019	1.3164	
+744		23/12/2019	1.316	
+745		24/12/2019	1.3157	
+746		27/12/2019	1.3078	
+747		30/12/2019	1.3059	
+748		31/12/2019	1.2988	
+749		2/1/2020	1.2992	
+75		31/12/1971	Canola   	Alberta  
+750		3/1/2020	1.2988	
+751		6/1/2020	1.297	
+752		7/1/2020	1.3009	
+753		8/1/2020	1.3026	
+754		9/1/2020	1.3079	
+755		10/1/2020	1.3051	
+756		13/1/2020	1.3048	
+757		14/1/2020	1.3062	
+758		15/1/2020	1.305	
+759		16/1/2020	1.3045	
+76		31/12/1971	Canola   	Canada   
+760		17/1/2020	1.3062	
+761		20/1/2020	1.3053	
+762		21/1/2020	1.3067	
+763		22/1/2020	1.3116	
+764		23/1/2020	1.3143	
+765		24/1/2020	1.314	
+766		27/1/2020	1.3182	
+767		28/1/2020	1.3179	
+768		29/1/2020	1.3196	
+769		30/1/2020	1.3217	
+77		31/12/1971	Canola   	Saskatche
+770		31/1/2020	1.3233	
+771		3/2/2020	1.3275	
+772		4/2/2020	1.3278	
+773		5/2/2020	1.3289	
+774		6/2/2020	1.329	
+775		7/2/2020	1.3305	
+776		10/2/2020	1.3319	
+777		11/2/2020	1.3292	
+778		12/2/2020	1.3254	
+779		13/2/2020	1.3256	
+78		31/12/1971	Rye      	Alberta  
+780		14/2/2020	1.3249	
+781		18/2/2020	1.3258	
+782		19/2/2020	1.3231	
+783		20/2/2020	1.3254	
+784		21/2/2020	1.3224	
+785		24/2/2020	1.3279	
+786		25/2/2020	1.3281	
+787		26/2/2020	1.3307	
+788		27/2/2020	1.3361	
+789		28/2/2020	1.3429	
+79		31/12/1971	Rye      	Canada   
+790		2/3/2020	1.3356	
+791		3/3/2020	1.3363	
+792		4/3/2020	1.3392	
+793		5/3/2020	1.3415	
+794		6/3/2020	1.3421	
+795		9/3/2020	1.3598	
+796		10/3/2020	1.3731	
+797		11/3/2020	1.3745	
+798		12/3/2020	1.382	
+799		13/3/2020	1.3901	
+8		31/12/1965	Rye      	Saskatche
+80		31/12/1971	Rye      	Saskatche
+800		16/3/2020	1.3964	
+801		17/3/2020	1.4175	
+802		18/3/2020	1.4496	
+803		19/3/2020	1.4495	
+804		20/3/2020	1.4332	
+805		23/3/2020	1.4482	
+806		24/3/2020	1.4491	
+807		25/3/2020	1.4302	
+808		26/3/2020	1.4077	
+809		27/3/2020	1.4056	
+81		31/12/1971	Wheat    	Alberta  
+810		30/3/2020	1.4156	
+811		31/3/2020	1.4187	
+812		1/4/2020	1.4217	
+813		2/4/2020	1.4179	
+814		3/4/2020	1.4142	
+815		6/4/2020	1.4127	
+816		7/4/2020	1.3986	
+817		8/4/2020	1.4034	
+818		9/4/2020	1.3985	
+819		13/4/2020	1.3936	
+82		31/12/1971	Wheat    	Canada   
+820		14/4/2020	1.3904	
+821		15/4/2020	1.4086	
+822		16/4/2020	1.4122	
+823		17/4/2020	1.4037	
+824		20/4/2020	1.4086	
+825		21/4/2020	1.4203	
+826		22/4/2020	1.4155	
+827		23/4/2020	1.4063	
+828		24/4/2020	1.409	
+829		27/4/2020	1.4053	
+83		31/12/1971	Wheat    	Saskatche
+830		28/4/2020	1.3978	
+831		29/4/2020	1.3922	
+832		30/4/2020	1.391	
+833		1/5/2020	1.4066	
+834		4/5/2020	1.4085	
+835		5/5/2020	1.4032	
+836		6/5/2020	1.4124	
+837		7/5/2020	1.4015	
+838		8/5/2020	1.3934	
+839		11/5/2020	1.4012	
+84		31/12/1972	Barley   	Alberta  
+840		12/5/2020	1.4015	
+841		13/5/2020	1.4073	
+842		14/5/2020	1.409	
+843		15/5/2020	1.4094	
+844		19/5/2020	1.3893	
+845		20/5/2020	1.3892	
+846		21/5/2020	1.3935	
+847		22/5/2020	1.4015	
+848		25/5/2020	1.3984	
+849		26/5/2020	1.3804	
+85		31/12/1972	Barley   	Canada   
+850		27/5/2020	1.378	
+851		28/5/2020	1.3764	
+852		29/5/2020	1.3787	
+853		1/6/2020	1.363	
+854		2/6/2020	1.3515	
+855		3/6/2020	1.3504	
+856		4/6/2020	1.3508	
+857		5/6/2020	1.3429	
+858		8/6/2020	1.3383	
+859		9/6/2020	1.3423	
+86		31/12/1972	Barley   	Saskatche
+860		10/6/2020	1.339	
+861		11/6/2020	1.3553	
+862		12/6/2020	1.3596	
+863		15/6/2020	1.3604	
+864		16/6/2020	1.3558	
+865		17/6/2020	1.3555	
+866		18/6/2020	1.3589	
+867		19/6/2020	1.3587	
+868		22/6/2020	1.3545	
+869		23/6/2020	1.3516	
+87		31/12/1972	Canola   	Alberta  
+870		24/6/2020	1.3591	
+871		25/6/2020	1.3645	
+872		26/6/2020	1.3676	
+873		29/6/2020	1.3682	
+874		30/6/2020	1.3628	
+875		2/7/2020	1.3586	
+876		3/7/2020	1.3565	
+877		6/7/2020	1.3543	
+878		7/7/2020	1.3583	
+879		8/7/2020	1.3538	
+88		31/12/1972	Canola   	Canada   
+880		9/7/2020	1.3555	
+881		10/7/2020	1.3594	
+882		13/7/2020	1.3567	
+883		14/7/2020	1.3616	
+884		15/7/2020	1.3534	
+885		16/7/2020	1.3543	
+886		17/7/2020	1.3574	
+887		20/7/2020	1.3543	
+888		21/7/2020	1.3446	
+889		22/7/2020	1.342	
+89		31/12/1972	Canola   	Saskatche
+890		23/7/2020	1.3392	
+891		24/7/2020	1.3421	
+892		27/7/2020	1.3378	
+893		28/7/2020	1.3373	
+894		29/7/2020	1.336	
+895		30/7/2020	1.3432	
+896		31/7/2020	1.3404	
+897		4/8/2020	1.3372	
+898		5/8/2020	1.3262	
+899		6/8/2020	1.3292	
+9		31/12/1965	Wheat    	Alberta  
+90		31/12/1972	Rye      	Alberta  
+900		7/8/2020	1.3377	
+901		10/8/2020	1.3354	
+902		11/8/2020	1.3291	
+903		12/8/2020	1.3254	
+904		13/8/2020	1.3217	
+905		14/8/2020	1.325	
+906		17/8/2020	1.3207	
+907		18/8/2020	1.317	
+908		19/8/2020	1.3171	
+909		20/8/2020	1.3195	
+91		31/12/1972	Rye      	Canada   
+910		21/8/2020	1.3205	
+911		24/8/2020	1.3207	
+912		25/8/2020	1.3194	
+913		26/8/2020	1.3155	
+914		27/8/2020	1.3129	
+915		28/8/2020	1.3097	
+916		31/8/2020	1.3042	
+917		1/9/2020	1.3055	
+918		2/9/2020	1.3067	
+919		3/9/2020	1.3123	
+92		31/12/1972	Rye      	Saskatche
+920		4/9/2020	1.3089	
+921		8/9/2020	1.3191	
+922		9/9/2020	1.3173	
+923		10/9/2020	1.3162	
+924		11/9/2020	1.3186	
+925		14/9/2020	1.3175	
+926		15/9/2020	1.3176	
+927		16/9/2020	1.3168	
+928		17/9/2020	1.32	
+929		18/9/2020	1.3186	
+93		31/12/1972	Wheat    	Alberta  
+930		21/9/2020	1.3293	
+931		22/9/2020	1.331	
+932		23/9/2020	1.3358	
+933		24/9/2020	1.3374	
+934		25/9/2020	1.3396	
+935		28/9/2020	1.3378	
+936		29/9/2020	1.3391	
+937		30/9/2020	1.3339	
+938		1/10/2020	1.3292	
+939		2/10/2020	1.331	
+94		31/12/1972	Wheat    	Canada   
+940		5/10/2020	1.3269	
+941		6/10/2020	1.3272	
+942		7/10/2020	1.3275	
+943		8/10/2020	1.322	
+944		9/10/2020	1.3136	
+945		13/10/2020	1.3133	
+946		14/10/2020	1.3139	
+947		15/10/2020	1.323	
+948		16/10/2020	1.3192	
+949		19/10/2020	1.3165	
+95		31/12/1972	Wheat    	Saskatche
+950		20/10/2020	1.3138	
+951		21/10/2020	1.3122	
+952		22/10/2020	1.3142	
+953		23/10/2020	1.314	
+954		26/10/2020	1.3201	
+955		27/10/2020	1.3164	
+956		28/10/2020	1.3302	
+957		29/10/2020	1.3349	
+958		30/10/2020	1.3318	
+959		2/11/2020	1.3257	
+96		31/12/1973	Barley   	Alberta  
+960		3/11/2020	1.3145	
+961		4/11/2020	1.3138	
+962		5/11/2020	1.3051	
+963			6/11/2020	1.3039	
+964		9/11/2020	1.297	
+965		10/11/2020	1.3017	
+966		12/11/2020	1.3123	
+967		13/11/2020	1.3147	
+968		16/11/2020	1.3085	
+969		17/11/2020	1.3094	
+97		31/12/1973	Barley   	Canada   
+970		18/11/2020	1.3063	
+971		19/11/2020	1.3083	
+972		20/11/2020	1.3071	
+973		23/11/2020	1.3082	
+974		24/11/2020	1.3033	
+975		25/11/2020	1.3003	
+976		26/11/2020	1.3013	
+977		27/11/2020	1.2985	
+978		30/11/2020	1.2965	
+979		1/12/2020	1.2952	
+98		31/12/1973	Barley   	Saskatche
+980		2/12/2020	1.2934	
+981		3/12/2020	1.288	
+982		4/12/2020	1.2801	
+983		7/12/2020	1.2801	
+984		8/12/2020	1.2808	
+985		9/12/2020	1.2803	
+986		10/12/2020	1.2734	
+987		11/12/2020	1.2769	
+988		14/12/2020	1.2757	
+989		15/12/2020	1.2722	
+99		31/12/1973	Canola   	Alberta  
+990		16/12/2020	1.2753	
+991		17/12/2020	1.2718	
+992		18/12/2020	1.2775	
+993		21/12/2020	1.2849	
+994		22/12/2020	1.2908	
+995		23/12/2020	1.2856	
+996		24/12/2020	1.2835	
+997		29/12/2020	1.2806	
+998		30/12/2020	1.2769	
+999		31/12/2020	1.2732	
+		
